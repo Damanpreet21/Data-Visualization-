@@ -1,5 +1,5 @@
 
-# Fifa Players
+# Fifa Players Data Viz Assignment
 Contributors
 1. Ajit Kumar Shukla (Student No: 10394108) - Data Preparation(including Tableau Visualisation) and Visualisation in PowerBI, Python including d3 and Javascript
 2. Damanpreet Kahlon (Student No: 10505907) - Data Visualisation in Python and Data Analysis in R, Report Creation

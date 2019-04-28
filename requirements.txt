@@ -1,0 +1,6 @@
+numpy==1.16.*
+matplotlib==3.*
+seaborn==0.8.1
+bokeh==1.0.2
+geopy==1.19.0
+plotly==3.8.1

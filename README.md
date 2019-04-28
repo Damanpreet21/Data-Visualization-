@@ -8,6 +8,6 @@ Contributors
 Since the dynamic interactive visualisations created in Python could not be hosted to interact on GitHub we have additionally
 created interactive visualisations in PowerBI which can be found at:
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMTA0MDNkMmItMDFhMi00OWM3LTk1YzctYWYyNjc1NmFjYzEwIiwidCI6IjVkMGFhNmVhLTY2MjAtNDg2My05ZTIxLTllY2IxNDAyMjJiYyIsImMiOjh9">
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTA0MDNkMmItMDFhMi00OWM3LTk1YzctYWYyNjc1NmFjYzEwIiwidCI6IjVkMGFhNmVhLTY2MjAtNDg2My05ZTIxLTllY2IxNDAyMjJiYyIsImMiOjh9"></a>
 
 

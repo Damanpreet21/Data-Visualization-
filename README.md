@@ -1,5 +1,5 @@
 
-[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/github/SMPyBandits/SMPyBandits/blob/master/notebooks/Do_we_even_need_UCB.ipynb)
+[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/drive/1v1tkelpBjU33meg5KTH45WJF5kSFvg4S#scrollTo=VcyqzOee05-A)
 
 # Fifa Players Data Viz Assignment:
 The dataset that we have chosen is FIFA 2018 Player dataset.It consists of 18k records for over 75 attributes. It has more than 50 attributes describing various player performance scores and position details. Along with these performance indicators we also have attributes like player Name, Age, Nationality, Club etc. We have attempted to explore the various attributes of the dataset and create interactive visualisations for the same.

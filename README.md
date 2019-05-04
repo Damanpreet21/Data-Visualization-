@@ -6,7 +6,7 @@ Contributors: The assignment was a joint effort wherein all the contibutors prov
 1. Ajit Kumar Shukla (Student No: 10394108) - Data Preparation(including Tableau Visualisation) and Visualisation in PowerBI, Python
 2. Damanpreet Kahlon (Student No: 10505907) - Data Visualisation in Python, Tableau dashboard and Report Creation
 3. Reema Mascarenhas (Student No: 10402498) - Data Visualisation in Python
-4. Ashin Basheer     (Student No: 10503646) - Data Visualisation in Python and PowerBI, GitHub Repo Setup
+4. Ashin Basheer     (Student No: 10503646) - Data Visualisation in Python and PowerBI, GitHub Pages Setup
 
 Please note, few of the visualisations were not compatible with colab(like D3) so please check the python notebook for the same.
 

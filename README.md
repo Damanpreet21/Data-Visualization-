@@ -1,3 +1,5 @@
+Interactive Visualisations Deployed at : https://fifa-players.github.io/Fifa/
+
 
 [![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/blue?icon=terminal)](https://colab.research.google.com/drive/1v1tkelpBjU33meg5KTH45WJF5kSFvg4S#scrollTo=VcyqzOee05-A)
 

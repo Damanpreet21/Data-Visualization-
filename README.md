@@ -1,5 +1,5 @@
 
-# Exploratory Alanalysis of FIFA 2018 player dataset using interactive visualizations:
+# Exploratory Analysis of FIFA 2018 player dataset using interactive visualizations:
 The main aim of this project is to perform exploratory analysis of a dataset using interactive visualizations. These visualizations were created using Python, Tableau, PowerBI, D3 charts etc.
 
 Dataset: (https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset)
